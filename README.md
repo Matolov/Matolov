@@ -6,6 +6,6 @@ Hi, I am a software and hardware engineer.
 
 🌱 I’m passionate about exploring innovative solutions in software and hardware technologies.
 
-💼 Currently, I’m working as an intern, gaining hands-on experience and further developing my technical skills in a real-world setting.
+💼 Currently, I’m working as an intern, gaining hands-on experience and further developing my technical skills.
 
 📫 How to reach me: valentinmatolov1@gmail.com
